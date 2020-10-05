@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    margin-top: 20px;
+    line-height: 2;
+    font-size: 2em;
+}
+
+img {
+    width: 10%;
+    height: auto;
+}
+
+button {
+    border-radius: 5px;
+    background-color: orange;
+    padding: 5px;
+    font-size: 1.2em;
+    cursor: pointer;
+}
+
+button:active {
+    background-color: rgb(182, 120, 5);
+}
